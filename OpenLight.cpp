@@ -8,7 +8,7 @@
 #include<iostream>
 using namespace std;
 #define maxn 1010
-int a[maxn];
+int a[maxn];            //数组里面的每一个元素，0值代表灯关着，1值代表灯开着，数组的编号代表着灯的编号。
 
  int main(){
      int n,k,i,j,first;
